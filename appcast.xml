@@ -7,6 +7,20 @@
         <language>en</language>
         <item>
             <title>Pastry 1.0</title>
+            <pubDate>Mon, 09 Nov 2026 01:56:01 GMT</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[
+<h3>Pastry 1.0</h3>
+<p>Pastry is a fast, private clipboard history for your Mac. Press Shift-Command-V, find what you copied, and press Return to paste it.</p>
+<ul><li><strong>Free to start.</strong> Pastry shows your five newest items for free. Buy it once for $29.99, with no subscription, to unlock your full history, collections, the paste stack and iCloud sync.</li><li><strong>Private by default.</strong> Everything stays on your Mac unless you turn on iCloud sync, which is end-to-end encrypted. Tracking is stripped from links, and location data from photos.</li><li><strong>Keeps itself up to date.</strong> Pastry checks for updates once a day. You can also choose Check for Updates from the menu bar.</li><li><strong>Pastry for iPhone is free.</strong> It shows your Mac&#x27;s history through iCloud and adds things from the share sheet.</li></ul>
+            ]]></description>
+            <enclosure url="https://github.com/mattbirchler/Pastry-releases/releases/download/v1.0-23/Pastry-1.0-23.zip" type="application/octet-stream" sparkle:edSignature="W/pJpmzDOnmvd6ykLPzW4453Iz8s2eRMKwQy92yAAASEtZ5shkIosmEdK9EINi7ZT3xhZD20p9EJSiSR1ekRDw==" length="5840894"/>
+        </item>
+        <item>
+            <title>Pastry 1.0</title>
             <pubDate>Sun, 08 Nov 2026 18:34:32 GMT</pubDate>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
